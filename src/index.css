@@ -139,10 +139,10 @@ header {
     border: 2px solid #313131;
     border-radius: 50px;
     font-family: inherit;
-    font-size: 0.9rem;
+    font-size: 1rem;
     padding: 0.5rem 1rem;
-justify-content: center;
-    margin-left: 5%;
+    justify-content: center;
+    margin-left: 2rem;
     align-self: center;
     margin-bottom: 0.7rem;
     margin-top: 0.3rem;
