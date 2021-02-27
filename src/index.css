@@ -141,7 +141,9 @@ header {
     font-family: inherit;
     font-size: 0.9rem;
     padding: 0.5rem 1rem;
-    margin-left: 3%;
+justify-content: center;
+    margin-left: 5%;
+    align-self: center;
     margin-bottom: 0.7rem;
     margin-top: 0.3rem;
     max-width: 80%;
